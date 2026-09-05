@@ -13,7 +13,7 @@ files:
         encrypted_possible_answer: 9juGvgvuYLka0TC1OiolUQ==
         selected: true
         status: Solved
-      - offset: 257
+      - offset: 258
         length: 10
         placeholder_text: "# Define a function named \"fun\" to replace three lines above"
         initial_state:

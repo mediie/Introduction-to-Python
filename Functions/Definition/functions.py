@@ -10,6 +10,7 @@ print("I want to be a function")
 print("I want to be a function")
 
 
+
 def fun():
     print("I want to be a function")
 
